@@ -36,5 +36,6 @@
 ↑載入圖片的自動解題
 
 載入圖片的有無解
+
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg)
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg)
