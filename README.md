@@ -17,6 +17,11 @@
 
 ↑5X5
 
+最後結果分為有解即無解
+
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Solved.png)
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/No%20Solution.png)
+
 可從 檔案->開啟 中自訂數字推盤圖片(或使用快捷鍵ctrl+O)
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/02.jpg)
@@ -25,3 +30,10 @@
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/03.png)
 
 ↑載入圖片後結果
+
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/image%20auto%20solved.gif)
+↑載入圖片的自動解題
+
+載入圖片的有無解
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.png)
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.png)
