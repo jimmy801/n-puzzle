@@ -32,8 +32,9 @@
 ↑載入圖片後結果
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/image%20auto%20solved.gif)
+
 ↑載入圖片的自動解題
 
 載入圖片的有無解
-![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.png)
-![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.png)
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg)
+![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg)
