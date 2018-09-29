@@ -1,7 +1,7 @@
 # n-puzzle
 數字推盤
 
-[更多詳細請看](https://github.com/jimmy801/n-puzzle/blob/master/Read%20me%20PPT/N-Puzzle%20PPT.pptx)
+[更多詳細右鍵下載PPT](https://github.com/jimmy801/n-puzzle/blob/master/Read%20me%20PPT/N-Puzzle%20PPT.pptx)
 
 起始畫面會要求輸入長和寬，如果關掉會預設為3X3的棋盤
 
