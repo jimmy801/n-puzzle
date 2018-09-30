@@ -59,5 +59,5 @@ Java7以上
 
 -載入圖片的有無解
 
-<img src="https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg" height="400">
-<img src="https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg" height="400">
+<img src="https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg">
+<img src="https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg">
