@@ -12,6 +12,11 @@ N-Puzzle是使用了`JAVA`所做的一個小遊戲，可以透過滑鼠點擊或
 
 [更多詳細右鍵下載PPT](https://github.com/jimmy801/n-puzzle/blob/master/Read%20me%20PPT/N-Puzzle%20PPT.pptx)
 
+Require
+---
+
+Java7以上
+
 遊戲方式
 ---
 
