@@ -5,7 +5,7 @@
 
 [N-Puzzle，數字推盤](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%97%E6%8E%A8%E7%9B%A4%E9%81%8A%E6%88%B2)，拼圖是會以矩形並打亂其順序呈現，拼圖有一個大小相當於一個方塊的空位供方塊移動。遊戲者要移動板上的方塊，讓所有的方塊順著數字的次序排列。
 
-Introduction
+Application Introduction
 ---
 
 N-Puzzle是使用了`JAVA`所做的一個小遊戲，可以透過滑鼠點擊或是使用鍵盤方向鍵移動拼圖，除了可以載入圖片外，更有透過[A Star Algorithm](https://zh.wikipedia.org/wiki/A*%E7%AE%97%E6%B3%95)來求出最佳解，但由於是NPC問題可能會造成記憶體溢出的可能性，所以如果資料過多，會採用「降階」方式完成
