@@ -34,9 +34,7 @@ Java7以上
 
         ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-1.gif)<br>↑3X3
 
-        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-2.gif)
-
-        ↑5X5
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-2.gif)<br>↑5X5
 
 3. 可從「檔案」->「開啟」中自訂數字推盤圖片(或使用快捷鍵ctrl+O)
 
@@ -50,12 +48,12 @@ Java7以上
 
 5. 最後結果分為有解即無解
 
-  - 未載入圖片的有無解
+      - 未載入圖片的有無解
 
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Solved.png)
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/No%20Solution.png)
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Solved.png)
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/No%20Solution.png)
 
-  - 載入圖片的有無解
+      - 載入圖片的有無解
 
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg)
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg)
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg)
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg)
