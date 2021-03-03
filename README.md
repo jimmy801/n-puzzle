@@ -20,17 +20,17 @@ Java7以上
 遊戲方式
 ---
 
-1.起始畫面
+1. 起始畫面
 
--會要求輸入長和寬，如果關掉會預設為3X3的棋盤
+- 會要求輸入長和寬，如果關掉會預設為3X3的棋盤
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/00.png)
 
-2.
+2. 操作方式
 
--可以使用滑鼠點擊或鍵盤方向鍵移動自己解題
+- 可以使用滑鼠點擊或鍵盤方向鍵移動自己解題
 
--或使用自動解題(快捷鍵 A)
+- 或使用自動解題(快捷鍵 A)
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-1.gif)
 
@@ -40,24 +40,24 @@ Java7以上
 
 ↑5X5
 
-3.可從「檔案」->「開啟」中自訂數字推盤圖片(或使用快捷鍵ctrl+O)
+3. 可從「檔案」->「開啟」中自訂數字推盤圖片(或使用快捷鍵ctrl+O)
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/02.jpg)
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/03.png)
 
-4.載入圖片後依然可以使用「自動解題」
+4. 載入圖片後依然可以使用「自動解題」
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/image%20auto%20solved.gif)
 
-5.最後結果分為有解即無解
+5. 最後結果分為有解即無解
 
--未載入圖片的有無解
+- 未載入圖片的有無解
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Solved.png)
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/No%20Solution.png)
 
--載入圖片的有無解
+- 載入圖片的有無解
 
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20Solved.jpg)
 ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/Image%20No%20Solution.jpg)
