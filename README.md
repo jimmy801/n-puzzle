@@ -22,9 +22,9 @@ Java7以上
 
 1. 起始畫面
 
-  - 會要求輸入長和寬，如果關掉會預設為3X3的棋盤
+    - 會要求輸入長和寬，如果關掉會預設為3X3的棋盤
 
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/00.png)
+      ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/00.png)
 
 2. 操作方式
 
