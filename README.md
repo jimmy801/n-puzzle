@@ -28,17 +28,15 @@ Java7以上
 
 2. 操作方式
 
-  - 可以使用滑鼠點擊或鍵盤方向鍵移動自己解題
+      - 可以使用滑鼠點擊或鍵盤方向鍵移動自己解題
 
-  - 或使用自動解題(快捷鍵 A)
+      - 或使用自動解題(快捷鍵 A)
 
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-1.gif)
-  
-    ↑3X3
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-1.gif)<br>↑3X3
 
-    ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-2.gif)
-  
-    ↑5X5
+        ![image](https://github.com/jimmy801/n-puzzle/blob/master/Screenshot/01-2.gif)
+
+        ↑5X5
 
 3. 可從「檔案」->「開啟」中自訂數字推盤圖片(或使用快捷鍵ctrl+O)
 
